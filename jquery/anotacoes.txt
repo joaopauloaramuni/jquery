@@ -1,0 +1,37 @@
+Lucas
+write less, do more
+
+DOM(Document Object Model)  -> Conjunto de coisas que tras o resultado final para o usuáirio
+
+cross-browsers
+
+JQuery - framework Java Script 
+Itus - Muito bom para efeitos
+
+<script src="jquery.js"> </script>
+
+baixar no site do Jquery min - É uma versão minificada é igual a normal porém é mais dificil visualizar e tem uma melhor performace
+desenvolver = versão normal
+min = vc vai para o cliente
+
+Alias
+$ ou JQuery
+Recupera um elemento (#id; .classe ou elemento - div, body) :button ...
+Realiza uma ação - Metódos attr(atributo,valor) ou define o atributo, text(), val()
+.Css addClass(class), css(propriedade, valor) 
+Events - ready(funcao) - É executado após onload carregar todos os objetos no DOM. 
+Unload - Descarregar da página
+
+Traversing exemplo ao usar tabela
+children()
+next()
+end() - Volta um nível no seu seletor
+not() - Exclui alguma coisa do seletor
+
+.live da vida ao botão 
+.html escreve dentro do elemento que você selecionou
+$('p').html($("input:text").val());
+
+
+visibility hidden -> apenas coloca branco 
+hide() -> esconde tira fora 
