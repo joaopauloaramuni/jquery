@@ -1,2 +1,2 @@
-# jquery
-Repo jquery
+# Jquery
+Repo Jquery
