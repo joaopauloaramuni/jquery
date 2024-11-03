@@ -1,0 +1,10 @@
+Songs by
+
+Blue Ducks: http://freemusicarchive.org/music/Blue_Ducks/
+<div xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/" about="http://freemusicarchive.org/music/Blue_Ducks/Six/"><span property="dct:title">Six</span> (<a rel="cc:attributionURL" property="cc:attributionName" href="http://freemusicarchive.org/music/Blue_Ducks/">Blue Ducks</a>) / <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA 3.0</a></div>
+
+and 
+
+Blank & Kytt: http://freemusicarchive.org/music/Blank__Kytt/
+<div xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/" about="http://freemusicarchive.org/music/Blank__Kytt/Heavy_Crazy_Serious/"><span property="dct:title">Heavy, Crazy, Serious</span> (<a rel="cc:attributionURL" property="cc:attributionName" href="http://blankkytt.bandcamp.com/">Blank & Kytt</a>) / <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a></div>
+
